@@ -1,0 +1,28 @@
+h3{
+    color: #000000;
+}
+p{
+    font-family: sans-serif;
+}
+#tab-top{
+    padding: 0px;
+    background-color: chartreuse;
+    font-size: 50px;
+}
+#tab-top a{
+    text-decoration-color: blueviolet;
+}
+th{
+    background-color: chartreuse;
+}
+#buy a{
+    background-color: green;
+    color: white;
+    
+}
+#description table{
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: thick;
+    border-color: mediumpurple;
+}
